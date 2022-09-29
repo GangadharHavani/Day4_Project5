@@ -1,0 +1,60 @@
+
+#box1{
+    width: 20%; 
+    height: 100px; 
+    float: left; 
+    background: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+a{
+    margin: 5px;
+    border: 3px solid grey;
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(105,105,105);
+    text-shadow: 1px 1px gray;
+    text-align: center;
+
+
+}
+x{
+    margin: 5px;
+    border: 3px solid gray;
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(105,105,105);
+    text-shadow: 1px 1px gray;
+}
+
+#box2{
+    margin: 50px;
+    margin-left: 5%; 
+    height: 100px; 
+    background: white;
+    font-size: 70px;
+    font-weight: 1000;
+    color: gray;
+}
+
+span,b{
+    color: orangered;
+    font-size: 70px;
+    text-shadow: 2px 2px lightgray;
+}
+.in{
+    color:cadetblue;
+    font-size: 50px;
+    text-shadow: 2px 2px lightgray; 
+}
+.val span{
+    color:gray;
+    font-size: 40px;
+    text-shadow: 2px 2px lightgray;
+}
+
+
+
+
